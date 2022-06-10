@@ -124,8 +124,8 @@ http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
 #EXTINF:-1 tvg-id="channelvhd" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/wdwbLJM/Channel-V-BEARTV.png", Channel V HD
 #EXTVLCOPT:http-user-agent="BearTV"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/ggNS5F5/1hdtv-BEARTV.png", 1 HD Music TV
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
+#EXTINF:-1 tvg-id="" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/ggNS5F5/1hdtv-BEARTV.png", BOX Music TV
+https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="mtvhd" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/4WsJKSP/MTV-VN-BEARTV.png", MTV
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 
@@ -195,7 +195,7 @@ https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/RjN9fs6/National-Geographic-BEARTV.png", National Geographic HD
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="ngwhd" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/fxH50gT/Nat-Geo-Wild-HD-BEARTV.png", Nat Geo Wild HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="discoveryhd" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/PYRgmQB/Discovery-BEARTV.png" , Discovery Channel
 #EXTVLCOPT:http-user-agent="BearTV"
 https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
@@ -509,9 +509,9 @@ http://203.162.235.41:16907
 
 
 
-#EXTINF:-1 tvg-id="cctv1" group-title="TRUNG QUỐC" tvg-logo="https://i.ibb.co/YkcfTtW/CCTV-1-BEARTV.png",CCTV-1
+#EXTINF:-1 tvg-id="cctv1" group-title="TRUNG QUỐC" tvg-logo="https://i.ibb.co/YkcfTtW/CCTV-1-BEARTV.png",Phim
 #http://hdtv.lzu6.edu.cn/hls/cctv1hd.m3u8
-https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv1_2_hd.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="cctv5" group-title="TRUNG QUỐC" tvg-logo="https://i.ibb.co/4P7MxRX/CCTV-5-BEARTV.png",CCTV-5
 #http://hdtv.lzu6.edu.cn/hls/cctv5hd.m3u8
 http://cctvalih5ca.v.myalicdn.com:80/live/cctv5_2/index.m3u8
@@ -522,14 +522,14 @@ http://cctvalih5ca.v.myalicdn.com:80/live/cctv5plus_2/index.m3u8
 http://140.207.241.3:8080/live/program/live/hnwshd/4000000/mnf.m3u8
 
 
-#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 1
+#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", ON Sport
 #EXTVLCOPT:http-user-agent="BearTV"
 #https://1630578830.vnns.net/taihd/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
-http://gg.gg/90ptv1|Referer=https://xoilac.90phuttt.xyz/live
-#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live  2
+http://gg.gg/beartv-onvff
+#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", J Sport 3
 #EXTVLCOPT:http-user-agent="BearTV"
 #https://1630578830.vnns.net/taihd2/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
-http://gg.gg/90ptv2|Referer=https://xoilac.90phuttt.xyz/live
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", BEAR Live 3
 #EXTVLCOPT:http-user-agent="BearTV"
 https://1630578830.vnns.net/taihd3/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
