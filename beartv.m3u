@@ -573,18 +573,18 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" logo="https://i.ibb.co/5GhPqrg/MAVTV-BEARTV.png",MAV TV
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/XY7MWtY/Canal-Sport-BEARTV.png" ,CANAL+ SPORT
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Mentari_TV.png" ,Mentari TV
 #EXTVLCOPT:http-user-agent="BearTV"
-http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+http://cvmvnpt.duckdns.org:8000/live1
 #http://51.91.73.99:25461/poland/EvFUcE2WMB/16354
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vdHwYRp/eleven1-BEARTV.png" group-title="KÊNH THỂ THAO", DAZN SPORTS 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/DAZN_2.svg" group-title="KÊNH THỂ THAO", DAZN SPORTS 2
 http://cvmvnpt.duckdns.org:8081/DAZN2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j5w1QnB/eleven2-BEARTV.png" group-title="KÊNH THỂ THAO", Polsat SPORTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/1200px-Polsat_Sport_2021_gradient.svg.png" group-title="KÊNH THỂ THAO", Polsat SPORTS
 http://cvmvnpt.duckdns.org:9981/stream/channelid/702606944?profile=cvace
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j5w1QnB/eleven2-BEARTV.png" group-title="KÊNH THỂ THAO", Polsat SPORTS Extral
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/250px-Polsat_Sport_Extra_2021_gradient.svg.png" group-title="KÊNH THỂ THAO", Polsat SPORTS Extra
 http://cvmvnpt.duckdns.org:9981/stream/channelid/1410031880?profile=cvace
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j5w1QnB/eleven2-BEARTV.png" group-title="KÊNH THỂ THAO", Polsat SPORTS News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Polsat_Sport_News_2021_gradient.svg/1200px-Polsat_Sport_News_2021_gradient.svg.png" group-title="KÊNH THỂ THAO", Polsat SPORTS News
 http://cvmvnpt.duckdns.org:9981/stream/channelid/1465943804?profile=cvace
 
 #EXTINF:-1 tvg-id="" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/rcK5Pbj/Ksport1-BEARTV.png", K Sport 1
