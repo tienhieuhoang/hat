@@ -660,11 +660,11 @@ http://stop.next-code.xyz:2052/Nador/66263/6331
 
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/HhZJvpX/bein-sport1-BEARTV.png" group-title="KÊNH THỂ THAO", Bein Sports 1
-http://cvmvnpt.duckdns.org:9981/stream/channelid/612272987?profile=cvace
+http://sv1.cvacetv.ga:9981/stream/channelid/1277018304?profile=ace1
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/TTM67cQ/bein-sport2-BEARTV.png" group-title="KÊNH THỂ THAO", Bein Sports 2
-http://cvmvnpt.duckdns.org:9981/stream/channelid/1073762163?profile=cvace
+http://sv1.cvacetv.ga:9981/stream/channelid/970563484?profile=ace1
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/TTM67cQ/bein-sport2-BEARTV.png" group-title="KÊNH THỂ THAO", Bein Sports 3
-http://cvmvnpt.duckdns.org:9981/stream/channelid/1073762163?profile=cvace
+http://sv1.cvacetv.ga:9981/stream/channelid/1690440033?profile=ace1
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="KÊNH THỂ THAO", CANAL+ SPORT
 http://cvmvnpt.duckdns.org:9981/stream/channelid/283214047?profile=cvace
@@ -672,16 +672,18 @@ http://cvmvnpt.duckdns.org:9981/stream/channelid/283214047?profile=cvace
 http://cvmovh.duckdns.org:9981/stream/channelid/1972259778?profile=cvaceplus
 
 #EXTINF:-1 group-title="ELEVEN SPORT - BA LAN",Eleven Sports 1
-http://cvmvnpt.duckdns.org:9981/stream/channelid/443670007?profile=cvaceplus
+http://sv1.cvacetv.ga:9981/stream/channelid/317156475?profile=ace1
 #EXTINF:-1 group-title="ELEVEN SPORT - BA LAN",Eleven Sports 2
-http://cvmvnpt.duckdns.org:9981/stream/channelid/1260630292?profile=cvaceplus
-#EXTINF:-1 group-title="ELEVEN SPORT - BA LAN",Eleven Sports 3
-http://cvmvnpt.duckdns.org:9981/stream/channelid/2039550845?profile=cvaceplus
-#EXTINF:-1 group-title="ELEVEN SPORT - BA LAN",Eleven Sports 4
-http://cvmvnpt.duckdns.org:9981/stream/channelid/101787742?profile=cvaceplus
+http://sv1.cvacetv.ga:9981/stream/channelid/663240901?profile=ace1
+#EXTINF:-1 group-title="SPORT - NGA",Маtch Futbol 1
+http://sv1.cvacetv.ga:9981/stream/channelid/824358506?profile=ace1
+#EXTINF:-1 group-title="SPORT - NGA",Маtch Futbol 2
+http://sv1.cvacetv.ga:9981/stream/channelid/129057724?profile=ace1
+#EXTINF:-1 group-title="SPORT - NGA",Маtch Futbol 3
+http://sv1.cvacetv.ga:9981/stream/channelid/697275846?profile=ace1
 
-#EXTINF:-1 tvg-id="" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/4jGtHGt/EXTV-BEARTV.png", Extreme Sports 
+#EXTINF:-1 tvg-id="" group-title="KÊNH THỂ THAO" tvg-logo="https://flyclipart.com/thumb2/sports-933856.png", Live Sport 
 http://58.65.171.202:8000/play/10506/index.m3u8
-#https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
+http://sv1.cvacetv.ga:8080/live1
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/DRDn679/kok-BEARTV.png" group-title="KÊNH THỂ THAO", KOK UFC
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
