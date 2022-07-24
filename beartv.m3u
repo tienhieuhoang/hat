@@ -2,7 +2,6 @@
 
 #EXTM3U BEARTV - Luôn cập nhật kênh ổn định
 
-
 #EXTINF:0 tvg-id="vtv1hd"group-title="VTV" tvg-logo="https://i.ibb.co/gywZ98j/VTV1-HD-BEARTV.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
@@ -511,14 +510,13 @@ http://cctvalih5ca.v.myalicdn.com:80/live/cctv5plus_2/index.m3u8
 http://140.207.241.3:8080/live/program/live/hnwshd/4000000/mnf.m3u8
 
 
-#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/63/ON_VFF.png", ON VFF
+#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://toppng.com/uploads/preview/vietnam-football-logo-png-11536009616gwhz2gqklc.png", ON VFF
 #EXTVLCOPT:http-user-agent="BearTV"
-#https://1630578830.vnns.net/taihd/chunks.m3u8|Referer=http://cakhia2.live/truc-tiep
 https://onsportlive.vtvcab.vn/hls/ONVFFTV_CL/04.m3u8
-#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", FPT Sport
+#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://techday2021.fpt.com.vn/storage/product/logo-doc.png", FPT Sport
 #EXTVLCOPT:http-user-agent="BearTV"
 https://livecdn.fptplay.net/schedule/sukien01_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", FPT Sport 1
+#EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://techday2021.fpt.com.vn/storage/product/logo-doc.png", FPT Sport 1
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hdevent/fsport01_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/qknnJN1/BEARTVLIVE.png", J Sport
@@ -567,8 +565,10 @@ https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 http://cvmvnpt.duckdns.org:8000/live1
 #http://51.91.73.99:25461/poland/EvFUcE2WMB/16354
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/DAZN_2.svg" group-title="KÊNH THỂ THAO", DAZN SPORTS 2
-http://cvmvnpt.duckdns.org:8081/DAZN2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png" group-title="KÊNH THỂ THAO", ESPN2
+http://sv1.cvacetv.ga:9981/stream/channelid/205223657?profile=ace1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ESPN_International_logo.svg/1280px-ESPN_International_logo.svg.png" group-title="KÊNH THỂ THAO", ESPN1
+http://sv1.cvacetv.ga:9981/stream/channelid/601009722?profile=ace1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/1200px-Polsat_Sport_2021_gradient.svg.png" group-title="KÊNH THỂ THAO", Polsat SPORTS
 http://cvmvnpt.duckdns.org:9981/stream/channelid/702606944?profile=cvace
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/250px-Polsat_Sport_Extra_2021_gradient.svg.png" group-title="KÊNH THỂ THAO", Polsat SPORTS Extra
