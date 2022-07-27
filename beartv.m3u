@@ -175,7 +175,7 @@ https://pprex49o5aliv.vcdn.cloud/1f46490e567322c346a81ad7ea00f1d8/1657898280000/
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="" tvg-name="FOXlife HD" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/FDmymrV/Box-Movie1-BEARTV.png" ,BOX HITS
 #EXTVLCOPT:http-user-agent="BearTV"
-https://pprex49o5aliv.vcdn.cloud/ca582b33add5697851bdda345d15d101/1658672128000/live/box-hits/chunklist_2.m3u8
+https://pprex49o5aliv.vcdn.cloud/1d1b2bad4beb45cac18d94d834258400/1658928592000/live/box-hits/chunklist_2.m3u8
 #EXTINF:0 tvg-id="AXN-ClipTV" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/ck0mm20/AXN-BEARTV.png" ,AXN HD
 #EXTVLCOPT:http-user-agent="BearTV"
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
@@ -466,8 +466,6 @@ https://haugiang011220.cdn.vnns.io/c4348637100c37ae599ee04eaa2ea17a1633789755/ha
 #EXTINF:0 tvg-id="vungtau" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/ZMVBv8X/BRT-BEARTV.png", Bà Rịa – Vũng Tàu
 http://113.163.216.23:1935/live/tv2.stream_480p/chunklist_w189583188.m3u8
 
-
-
 #EXTINF:0 group-title="HÀN QUỐC" tvg-logo="https://i.ibb.co/HtmBMq6/Arirang-BEARTV.png", Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:0 tvg-id="sbshd" group-title="HÀN QUỐC" tvg-logo="https://i.ibb.co/jW3VyCd/SBS-BEARTV.png",SBS HD
@@ -482,8 +480,6 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s3/playlist.m3u8
 https://mnet-seezn.pip.cjenm.com/mnet/_definst_/s5/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI3MzQ4OTIsInBhdGgiOiIvbW5ldC9fZGVmaW5zdF8vczUiLCJ1bm8iOiIxNjIyNzM0NTkyMjg5MTg3ODYiLCJpYXQiOjE2MjI3MzQ1OTJ9.Qy-cUxDm2zSdJFdFLYV_k6HB9wN_MPGm6ntVtOJASbY
 #EXTINF:-1 group-title="HÀN QUỐC" tvg-logo="https://i.ibb.co/YBbxvch/MBCKR-BEARTV.png", MBC
 https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
-
-
 
 
 #EXTINF:-1 tvg-id="NHK World" tvg-logo="https://i.ibb.co/QPtBrky/NHKW-BEARTV.png" group-title="NHẬT BẢN",NHK WORLD JAPAN
@@ -587,7 +583,6 @@ http://cvmovh.duckdns.org/PPV3
 http://cvmovh.duckdns.org/PPV4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s185xxk/RMC-Sport-3-BEARTV.png" group-title="KÊNH THỂ THAO",RMC SPORT 3
 http://cvmovh.duckdns.org/PPV5
-
 
 
 #EXTINF:0 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/zn5k2q6/star-sports-select-hd-1-BEARTV.png",Star Sports 1 Select HD
