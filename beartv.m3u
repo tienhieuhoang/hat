@@ -173,7 +173,7 @@ https://pprex49o5aliv.vcdn.cloud/1f46490e567322c346a81ad7ea00f1d8/1657898280000/
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="" tvg-name="FOXlife HD" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/FDmymrV/Box-Movie1-BEARTV.png" ,BOX HITS
 #EXTVLCOPT:http-user-agent="BearTV"
-https://pprex49o5aliv.vcdn.cloud/1d1b2bad4beb45cac18d94d834258400/1658928592000/live/box-hits/chunklist_2.m3u8
+http://live.vthanhtivi.pw:8080/boxhits
 #EXTINF:0 tvg-id="AXN-ClipTV" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/ck0mm20/AXN-BEARTV.png" ,AXN HD
 #EXTVLCOPT:http-user-agent="BearTV"
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
