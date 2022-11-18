@@ -524,8 +524,10 @@ http://5.tcp.eu.ngrok.io:17498/4KUHD
 http://live-vn.cvacetv.ga:8080/live1
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png" tvg-id="",CVmedia Live 2
 http://live-vn.cvacetv.ga:8080/live2
-#EXTINF:-1 group-title="TEST",Movistar LC
-http://5.tcp.eu.ngrok.io:17498/LC
+#EXTINF:-1 group-title="TEST",K+ KIDS
+http://laohac360.duckdns.org:9981/stream/channelnumber/702?auth=Pte-Yz9AnQarWnSQg4cD0TARVbGU
+#EXTINF:-1 group-title="TEST",FTV
+https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="TEST",beIN Sports 1 Indonesia
 http://live-vn.cvacetv.ga:8080/bein1id
 #EXTINF:-1 group-title="TEST",beIN Sports 3 Indonesia
