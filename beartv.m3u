@@ -364,9 +364,9 @@ https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
 #EXTVLCOPT:http-user-agent="BearTV"
 https://livecdn.fptplay.net/sda/ncm_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="HANOITV 1" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Y8bq8Fp/HANOI1-TV-BEARTV.png",Hà Nội 1 HD
-http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
+https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="HANOITV 2" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/L5bfkfQ/HANOI2-TV-BEARTV.png",Hà Nội 2 HD
-http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8
+https://1028513096.vnns.net/tv2-abr/hntvlive/tv2_1080p/chunks.m3u8
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/0hHxBTQ/BPTV1-BEARTV.png", Bình Phước 1
 https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 #EXTINF:0 tvg-id="binhphuoc2" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/whZsp2n/BPTV2-Home-TV-BEARTV.png", Bình Phước 2 - HOME TV
