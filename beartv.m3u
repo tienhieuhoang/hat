@@ -206,10 +206,10 @@ https://vtsstr4.tv24.vn/live/SCTV_HD_PhimChauA_new.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="hbohd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png", HBO
 #EXTVLCOPT:http-user-agent="BearTV"
-https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+http://live.vthanhtivi.pw/hbo
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png", CINEMAX
 #EXTVLCOPT:http-user-agent="BearTV"
-https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
+http://live.vthanhtivi.pw/cinemax
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="QUỐC TẾ" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
@@ -660,3 +660,6 @@ http://0.vylc.name.vn:8080/stream/channelid/752143160
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/espn_extra.png",ESPN Extra
 http://0.vylc.name.vn:8080/stream/channelid/927025739
 
+#EXTINF:-1 tvg-id="phim" group-title="Phim" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png", Sài Gòn trong cơn mưa
+#EXTVLCOPT:http-user-agent="BearTV"
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220131/saigonintherain_2020_vn_1080p_logofptplay/fd9e65ae078b6e93176280c0542222b3.smil/chunklist_b4628000.m3u8?cc
