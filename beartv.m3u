@@ -663,3 +663,15 @@ http://0.vylc.name.vn:8080/stream/channelid/927025739
 #EXTINF:-1 tvg-id="phim" group-title="Phim" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png", Sài Gòn trong cơn mưa
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220131/saigonintherain_2020_vn_1080p_logofptplay/fd9e65ae078b6e93176280c0542222b3.smil/chunklist_b4628000.m3u8?cc
+#EXTINF:-1 tvg-id="phim" group-title="Phim" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png", Tình đầu thơ ngây
+#EXTVLCOPT:http-user-agent="BearTV"
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20230113/tinh-dau-tho-ngay-2019-vn-logo-f-1673610208/2cd6f0ddbe5e5912ee55e5c2e56bdd6b.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 tvg-id="phim" group-title="Phim" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png", Người ngoài hành tinh
+#EXTVLCOPT:http-user-agent="BearTV"
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20180112/aliendomicilemastercrop-logo/fd7ef8405c6a9821a2370e94f9e61029-720p.mp4/chunklist.m3u8?cc
+#EXTINF:-1 tvg-id="phim" group-title="Phim" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png", Thiếu niên thần bài
+#EXTVLCOPT:http-user-agent="BearTV"
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20230115/godofgamblers3theearlystage-1996-hk-tm-1673761271/3f64b1841a11bd96a3044caed80d74e8.smil/chunklist_b4392000.m3u8?cc
+#EXTINF:-1 tvg-id="phim" group-title="Phim" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png", Thần bài 2
+#EXTVLCOPT:http-user-agent="BearTV"
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230115/godofgamblersii-1990-hk-tm-1673761275/0c11cd727a7a8e3c74afe1ccf4e7cb46-1080p.mp4/chunklist_w485397392.m3u8?cc
