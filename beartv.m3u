@@ -239,7 +239,7 @@ https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3
 https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
 #EXTINF:0 tvg-id="AXN-ClipTV" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/ck0mm20/AXN-BEARTV.png" ,AXN HD
 #EXTVLCOPT:http-user-agent="BearTV"
-http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
+http://cdn-cf.vthanhtivi.pw/fptplay/axn/bitrate_5000.m3u8
 #EXTINF:0 tvg-id="warnertvhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/S7BtNs4/WB-BEARTV.png",Warner TV
 #EXTVLCOPT:http-user-agent="BearTV"
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
@@ -258,7 +258,7 @@ https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m
 https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="babytvhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/McZF8q4/Baby-TV-BEARTV.png",Baby TV
 #EXTVLCOPT:http-user-agent="BearTV"
-https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
+http://cdn-cf.vthanhtivi.pw/fptplay/babytv-hd/bitrate_5000.m3u8
 #EXTINF:0 tvg-id="happykids"  group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/DYFXjGY/Happy-Kids-BEARTV.png",Happy Kids
 #EXTVLCOPT:http-user-agent="BearTV"
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://sctvonline.vn/
@@ -267,9 +267,9 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http:/
 https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="animaxhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/6BW91H3/Animax-BEARTV.png" , Animax
 #EXTVLCOPT:http-user-agent="BearTV"
-https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
+http://cdn-cf.vthanhtivi.pw/fptplay/animax/bitrate_5000.m3u8
 #EXTINF:0 tvg-id="animalhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/grTy13N/Animal-Planet-BEARTV.png" , Animal Planet
-https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+http://cdn-cf.vthanhtivi.pw/fptplay/animal-planet/bitrate_5000.m3u8
 #EXTINF:0 tvg-id="" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/WVdSPsM/Love-Nature-TV-BEARTV.png" , Love Nature
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/9V7M86m/CMW-BEARTV.png", Cinema World
@@ -277,7 +277,7 @@ http://bamus-eng-roku.amagi.tv/playlist.m3u8
 https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="davinci" tvg-logo="https://i.ibb.co/qkPjJQh/Da-Vinci-BEARTV.png" tvg-name="Da Vinci (HD)"  group-title="QUỐC TẾ",Da Vinci HD
 #EXTVLCOPT:http-user-agent="BearTV"
-https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+http://cdn-cf.vthanhtivi.pw/fptplay/da-vinci-learning/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://i.ibb.co/gZZHg4t/afn-BEARTV.png" group-title="QUỐC TẾ",Asian Food Network
 #EXTVLCOPT:http-user-agent="BearTV"
 https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
@@ -298,7 +298,7 @@ https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3
 https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/J3khtYb/Discovery-Asia-BEARTV.png", Discovery Asia
 #EXTVLCOPT:http-user-agent="BearTV"
-https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+http://cdn-cf.vthanhtivi.pw/fptplay/discovery-asia/bitrate_5000.m3u8
 #EXTINF:0 tvg-id="outdoorhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/hDhK578/Outdoor-Channel-BEARTV.png" , Outdoor Channel
 #EXTVLCOPT:http-user-agent="BearTV"
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
@@ -318,7 +318,6 @@ https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/t2MkYyX/CNA-BEARTV.png", CNA
 https://pprex49o5aliv.vcdn.cloud/ca582b33add5697851bdda345d15d101/1658672128000/live/box-hits/chunklist_2.m3u8
-
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png", HTV1
 #EXTVLCOPT:http-user-agent="BearTV"
