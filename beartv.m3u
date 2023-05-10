@@ -115,7 +115,7 @@ https://code.vthanhtivi.pw/getlink/vieon/vie-giai-tri-hd/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/vieon2/ad62967c-f8f2-4bb1-84bc-637282f14799/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db/dvr-${start}-${offset}.m3u8", ON Sports HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://20.24.190.17/onsp/mpegts
+https://liveh34.vtvcab.vn/hls/ONSPORTPLHD_1256/05.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sports HD sv2
 http://code.vthanhtivi.pw/getlink/onplus/THETHAO_HD/m401_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/15.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/d49ffe96-d3da-46d6-8e40-6572f2db0645/dvr-${start}-${offset}.m3u8", ON Movies
@@ -149,7 +149,7 @@ https://code.vthanhtivi.pw/getlink/vieon2/34c161ed-e70e-418d-b7a7-885500f8a355/p
 https://code.vthanhtivi.pw/getlink/vieon2/5aea9637-1080-4f0b-a1b4-a8c9d4c3a536/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/a30dfe11-536f-4a6e-abca-3df04ca7363a/dvr-${start}-${offset}.m3u8", ON Football HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://20.24.190.17/onfb/mpegts
+https://liveh34.vtvcab.vn/hls/BDHD_1924/05.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD sv2
 http://code.vthanhtivi.pw/getlink/onplus/BONGDA_HD/m401_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/25.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/1b029a49-b0fe-4ac5-b1cf-a9cb782ed0ec/dvr-${start}-${offset}.m3u8", VTVcab 17 - Yeah1TV
@@ -157,7 +157,7 @@ http://code.vthanhtivi.pw/getlink/onplus/BONGDA_HD/m401_index.m3u8
 https://code.vthanhtivi.pw/getlink/vieon2/1b029a49-b0fe-4ac5-b1cf-a9cb782ed0ec/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/987374ca-de49-4612-a159-b71f7880d134/dvr-${start}-${offset}.m3u8", ON Sports News
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://20.24.190.17/onspn/mpegts
+https://liveh34.vtvcab.vn/hls/TTTTHD_CL/05.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News sv2
 http://code.vthanhtivi.pw/getlink/onplus/THETHAO_TINTUC_HD/m401_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/27.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-dramas-hd/dvr-${start}-${offset}.m3u8", VTVcab 19 - Vie Dramas
