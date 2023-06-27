@@ -103,7 +103,7 @@ https://code.vthanhtivi.pw/getlink/vieon/vie-giai-tri-hd/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/vieon2/ad62967c-f8f2-4bb1-84bc-637282f14799/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/9fb740a5-d1a0-4068-8d02-0a4d428f46db/dvr-${start}-${offset}.m3u8", ON Sports HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/95b8b5ffd58c1b7cb4dcf58fd8053d58/1687685566543/vtc_staging/livetv/hd_vtvcab_3/playlist.m3u8?codec=hvc
+https://liveh34.vtvcab.vn/hls/ACTION/01.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sports HD sv2
 http://code.vthanhtivi.pw/getlink/onplus/THETHAO_HD/m401_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/15.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/d49ffe96-d3da-46d6-8e40-6572f2db0645/dvr-${start}-${offset}.m3u8", ON Movies
@@ -561,10 +561,10 @@ https://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 http://b4tv.live/b4tv/b4tv/1.m3u8
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-de.png",Bear TV
 http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
-#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-de.png",Hub.premier.7
-http://shareext@clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=348103&extension=ts&play_token=JriqBmW8MR
-#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-de.png",Sky Sport F1
-http://0.vylc.name.vn/SkyF1
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-de.png",FPT Event
+https://livecdn.fptplay.net/schedule/sukien01_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-de.png",FPT Event 1
+https://vips-livecdn.fptplay.net/fnxsport/thethao14_vhls.smil/chunklist_b5500000.m3u8
 
 #EXTINF:-1 tvg-id="phim" group-title="Phim" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png", Sài Gòn trong cơn mưa
 #EXTVLCOPT:http-user-agent="BearTV"
