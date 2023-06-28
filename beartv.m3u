@@ -55,7 +55,7 @@ https://zjizeoupprliv.vcdn.cloud/live/vnews/chunklist.m3u8
 https://live-zlr1.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8
 #EXTINF:0 tvg-id="VTC2-ClipTV" group-title="VTC" tvg-logo="https://i.ibb.co/7WwzKSj/VTC2-BEARTV.png" tvg-chno="11" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC2 HD
 #EXTVLCOPT:http-user-agent="BearTV"
-https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/ba54407e3488544cac463b844677e17f/1687919450411/livetv/64c7609cb7fb8418d5fdcf6a904e0b45/playlist.m3u8?codec=hvc
+https://tiemnhazunn.click/vieon/vieon.php?id=vtc2-reidius-tv
 #EXTINF:0 tvg-id="VTC3 HD" group-title="VTC" tvg-logo="https://i.ibb.co/X2dbCDb/VTC3-BEARTV.png" tvg-chno="51" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC3 HD
 #EXTVLCOPT:http-user-agent="BearTV"
 https://live-zlr1.tv360.vn/manifest/VTC3_HD/playlist_1080p.m3u8
