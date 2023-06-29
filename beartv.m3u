@@ -45,7 +45,7 @@ https://live-zlr1.tv360.vn/manifest/QPVN_HD/playlist_1080p.m3u8
 #EXTINF:0 tvg-id="vovtvhd"group-title="THỜI SỰ - CHÍNH TRỊ" tvg-logo="https://i.ibb.co/TMVw5Hw/VOV-BEARTV.png",VOV TV HD
 http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="nhandan"group-title="THỜI SỰ - CHÍNH TRỊ" tvg-logo="https://i.ibb.co/Cwb7y50/NHANDAN-BEARTV.png",NHÂN DÂN HD
-https://vips-livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
+https://liveh34.vtvcab.vn/hls/ONNHANDAN_CL/03.m3u8
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="THỜI SỰ - CHÍNH TRỊ" tvg-logo="https://i.ibb.co/mFj98VJ/VNEWS-BEARTV.png" ,VNews
 #EXTVLCOPT:http-user-agent="BearTV"
 https://zjizeoupprliv.vcdn.cloud/live/vnews/chunklist.m3u8
