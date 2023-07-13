@@ -350,7 +350,7 @@ https://code.vthanhtivi.pw/getlink/mytv/191/hd.m3u8
 #EXTVLCOPT:http-user-agent="BearTV"
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/HnBxLwB/TV5-Monde-BEARTV.png", Women
-https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
+https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8?kiptv%7CReferer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="bbcearth" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/XynWD6F/BBC-Earth-BEARTV.png", BBC Earth
 http://sg.tinchuanchuaanh.com:8080/BBC_EARTH_HD/index.m3u8
 
