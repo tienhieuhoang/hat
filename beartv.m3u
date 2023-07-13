@@ -333,18 +333,10 @@ https://code.vthanhtivi.pw/getlink/mytv/294/hd.m3u8
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://i.ibb.co/gZZHg4t/afn-BEARTV.png" group-title="QUỐC TẾ",Asian Food Network
 #EXTVLCOPT:http-user-agent="BearTV"
 https://code.vthanhtivi.pw/getlink/mytv/298/hd.m3u8
-#EXTINF:-1 tvg-id="tlchd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/c2kb3GM/TLC-BEARTV.png", TLC
-http://sg.tinchuanchuaanh.com:8080/TLC_HD/index.m3u8
-#EXTINF:0 tvg-id="blueantent" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/Y8pQz8Q/Blue-ant-entertainment-BEARTV.png" , Blue Ant Entertainment
-#EXTVLCOPT:http-user-agent="BearTV"
-https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="blueantext" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/c6MN6Cc/Blue-ant-extreme-BEARTV.png" , Blue Ant Extreme
-#EXTVLCOPT:http-user-agent="BearTV"
-https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/RjN9fs6/National-Geographic-BEARTV.png", National Geographic HD
-http://cdn-cf.vthanhtivi.pw/fptplay/national-geographic-hd/bitrate_5000.m3u8
+http://live.vthanhtivi.pw/natgeo
 #EXTINF:-1 tvg-id="ngwhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/fxH50gT/Nat-Geo-Wild-HD-BEARTV.png", Nat Geo Wild HD
-https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
+http://live.vthanhtivi.pw/ngw
 #EXTINF:0 tvg-id="discoveryhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/PYRgmQB/Discovery-BEARTV.png" , Discovery Channel
 #EXTVLCOPT:http-user-agent="BearTV"
 https://code.vthanhtivi.pw/getlink/jptv2/53/playlist.m3u8
@@ -353,22 +345,14 @@ https://code.vthanhtivi.pw/getlink/jptv2/53/playlist.m3u8
 http://sg.tinchuanchuaanh.com:8080/DISCOVERY_ASIA_HD/index.m3u8
 #EXTINF:0 tvg-id="outdoorhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/hDhK578/Outdoor-Channel-BEARTV.png" , Outdoor Channel
 #EXTVLCOPT:http-user-agent="BearTV"
-https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/191/hd.m3u8
 #EXTINF:0 tvg-id="fashionhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/C74WPtb/Fashion-TV-BEARTV.png" , Fashion TV 4K
 #EXTVLCOPT:http-user-agent="BearTV"
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/HnBxLwB/TV5-Monde-BEARTV.png", Women
 https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="kbsworld" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/8XwH2hS/KBS-World-BEARTV.png", KBS World
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="abcaustralia" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/gF4fGYx/ABC-Australia-BEARTV.png", ABC Australia
-https://livecdn.fptplay.net/sdb/australiaplus_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/XynWD6F/BBC-Earth-BEARTV.png", BBC Earth
 http://sg.tinchuanchuaanh.com:8080/BBC_EARTH_HD/index.m3u8
-#EXTINF:-1 tvg-id="bbclifestyle" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/F6N3vk3/BBC-Lifestyle-BEARTV.jpg", BBC Lifestyle
-http://cdn-cf.vthanhtivi.pw/fptplay/bbc-lifestyle/bitrate_5000.m3u8
-#EXTINF:-1 tvg-id="" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/t2MkYyX/CNA-BEARTV.png", CNA
-https://pprex49o5aliv.vcdn.cloud/ca582b33add5697851bdda345d15d101/1658672128000/live/box-hits/chunklist_2.m3u8
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png", HTV1
 #EXTVLCOPT:http-user-agent="BearTV"
