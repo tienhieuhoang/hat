@@ -259,14 +259,14 @@ http://live.vthanhtivi.pw/hbo
 http://live.vthanhtivi.pw/cinemax
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="QUỐC TẾ" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
 #EXTVLCOPT:http-user-agent="BearTV"
-https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
+https://dl.dropboxusercontent.com/s/8800f62718isn9x/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%E3%85%A4?hollywood-classics%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
 #http://sg.tinchuanchuaanh.com:8080/HOLLYWOOD_CLASSICS/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/ggNS5F5/1hdtv-BEARTV.png", BOX Music TV
 https://code.vthanhtivi.pw/getlink/mytv/69/hd.m3u8
 #EXTINF:-1 tvg-id="mtvhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/4WsJKSP/MTV-VN-BEARTV.png", MTV
 http://code.vthanhtivi.pw/getlink/jptv1/NiX8rRFsK_OA54lDclyKdA==/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/ggNS5F5/1hdtv-BEARTV.png", BOX Movies
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
+https://dl.dropboxusercontent.com/s/wms41claawxdpww/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%E3%85%A4?box-movie1%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
 #http://sg.tinchuanchuaanh.com:8080/BOX_MOVIE_1/index.m3u8
 #EXTINF:0 tvg-id="dmaxhd"group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/kxqGzQM/dmax-BEARTV.png",DMAX
 #EXTVLCOPT:http-user-agent="BearTV"
@@ -288,7 +288,7 @@ http://sg.tinchuanchuaanh.com:8080/WARNER_TV_HD/index.m3u8
 https://code.vthanhtivi.pw/getlink/fptplay/kix/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/vD7cGzQ/Boomerang-BEARTV.png", Boomerang
 #EXTVLCOPT:http-user-agent="BearTV"
-http://sg.tinchuanchuaanh.com:8080/BOOMERANG_HD/index.m3u8
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/eb23b6661b4b9b51df70e2df164f9e3a.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/THhk8Wf/Cartoon-Network-BEARTV.png", Cartoon Network HD
 #EXTVLCOPT:http-user-agent="BearTV"
 http://sg.tinchuanchuaanh.com:8080/CARTOON_NETWORK_HD/index.m3u8
@@ -335,7 +335,13 @@ http://sg.tinchuanchuaanh.com:8080/DISCOVERY_ASIA_HD/index.m3u8
 https://code.vthanhtivi.pw/getlink/mytv/191/hd.m3u8
 #EXTINF:0 tvg-id="fashionhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/C74WPtb/Fashion-TV-BEARTV.png" , Fashion TV 4K
 #EXTVLCOPT:http-user-agent="BearTV"
-http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:0 tvg-id="fashionhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/C74WPtb/Fashion-TV-BEARTV.png" , Fashion Midnite
+#EXTVLCOPT:http-user-agent="BearTV"
+https://dl.dropboxusercontent.com/s/jaoc6ag8c8ku3au/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%E3%85%A4?midnite%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+#EXTINF:0 tvg-id="fashionhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/C74WPtb/Fashion-TV-BEARTV.png" , Kaloopy
+#EXTVLCOPT:http-user-agent="BearTV"
+https://dl.dropboxusercontent.com/s/koiq1049gt89pg5/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%E3%85%A4?kaloopy%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
 #EXTINF:-1 tvg-id="" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/HnBxLwB/TV5-Monde-BEARTV.png", Women
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8?kiptv%7CReferer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="bbcearth" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/XynWD6F/BBC-Earth-BEARTV.png", BBC Earth
@@ -604,6 +610,9 @@ https://vips-livecdn.fptplay.net/fnxsport/thethao17_vhls.smil/chunklist_b5500000
 #EXTINF:-1 group-title="Thể thao tổng hợp" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-de.png",FPT Event 5
 https://vips-livecdn.fptplay.net/fnxsport/thethao18_vhls.smil/chunklist_b5500000.m3u8
 
+#EXTINF:-1 tvg-id="phim" group-title="Phim" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png", Doremon
+#EXTVLCOPT:http-user-agent="BearTV"
+http://livestream.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="phim" group-title="Phim" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png", Sài Gòn trong cơn mưa
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220131/saigonintherain_2020_vn_1080p_logofptplay/fd9e65ae078b6e93176280c0542222b3.smil/chunklist_b4628000.m3u8?cc
