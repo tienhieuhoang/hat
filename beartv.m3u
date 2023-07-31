@@ -260,13 +260,15 @@ https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/tvfree/cinemax/playlist.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="QUỐC TẾ" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
 #EXTVLCOPT:http-user-agent="BearTV"
-http://sg.tinchuanchuaanh.com:8080/HOLLYWOOD_CLASSICS/index.m3u8
+http://live-vnp.vthanhtivi.pw:18001/HOLLYWOOD_CLASSICS/index.m3u8
+#http://sg.tinchuanchuaanh.com:8080/HOLLYWOOD_CLASSICS/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/ggNS5F5/1hdtv-BEARTV.png", BOX Music TV
 https://code.vthanhtivi.pw/getlink/mytv/69/hd.m3u8
 #EXTINF:-1 tvg-id="mtvhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/4WsJKSP/MTV-VN-BEARTV.png", MTV
 http://code.vthanhtivi.pw/getlink/jptv1/NiX8rRFsK_OA54lDclyKdA==/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/ggNS5F5/1hdtv-BEARTV.png", BOX Movies
-http://sg.tinchuanchuaanh.com:8080/BOX_MOVIE_1/index.m3u8
+http://live-vnp.vthanhtivi.pw:18001/BOX_MOVIE_1/index.m3u8
+#http://sg.tinchuanchuaanh.com:8080/BOX_MOVIE_1/index.m3u8
 #EXTINF:0 tvg-id="dmaxhd"group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/kxqGzQM/dmax-BEARTV.png",DMAX
 #EXTVLCOPT:http-user-agent="BearTV"
 http://sg.tinchuanchuaanh.com:8080/DMAX/index.m3u8
@@ -275,7 +277,7 @@ http://sg.tinchuanchuaanh.com:8080/DMAX/index.m3u8
 http://sg.tinchuanchuaanh.com:8080/IN_THE_BOX/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="FOXlife HD" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/FDmymrV/Box-Movie1-BEARTV.png" ,BOX HITS
 #EXTVLCOPT:http-user-agent="BearTV"
-https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
+http://live.vthanhtivi.pw/boxhits
 #EXTINF:0 tvg-id="AXN-ClipTV" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/ck0mm20/AXN-BEARTV.png" ,AXN HD
 #EXTVLCOPT:http-user-agent="BearTV"
 http://sg.tinchuanchuaanh.com:8080/AXN_HD/index.m3u8
@@ -290,7 +292,7 @@ https://code.vthanhtivi.pw/getlink/fptplay/kix/chunklist_b5000000.m3u8
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/eb23b6661b4b9b51df70e2df164f9e3a.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/THhk8Wf/Cartoon-Network-BEARTV.png", Cartoon Network HD
 #EXTVLCOPT:http-user-agent="BearTV"
-http://sg.tinchuanchuaanh.com:8080/CARTOON_NETWORK_HD/index.m3u8
+http://live-vnp.vthanhtivi.pw:18001/CARTOON_NETWORK_HD/index.m3u8
 #EXTINF:0 tvg-id="Baby TV HD-ClipTV" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/X5gLjLF/babyfirst-BEARTV.png" , Baby First
 #EXTVLCOPT:http-user-agent="BearTV"
 https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
@@ -305,14 +307,15 @@ https://code.vthanhtivi.pw/getlink/tv360/212/2.m3u8
 https://code.vthanhtivi.pw/getlink/tv360/135/2.m3u8
 #EXTINF:0 tvg-id="animaxhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/6BW91H3/Animax-BEARTV.png" , Animax
 #EXTVLCOPT:http-user-agent="BearTV"
-http://sg.tinchuanchuaanh.com:8080/ANIMAX_HD/index.m3u8
+http://live-vnp.vthanhtivi.pw:18001/ANIMAX_HD/index.m3u8
+#http://sg.tinchuanchuaanh.com:8080/ANIMAX_HD/index.m3u8
 #EXTINF:0 tvg-id="animalhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/grTy13N/Animal-Planet-BEARTV.png" , Animal Planet
-http://sg.tinchuanchuaanh.com:8080/ANIMAL_PLANET_HD/index.m3u8
+http://live-vnp.vthanhtivi.pw:18001/ANIMAL_PLANET_HD/index.m3u8
 #EXTINF:0 tvg-id="" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/WVdSPsM/Love-Nature-TV-BEARTV.png" , Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/9V7M86m/CMW-BEARTV.png", Cinema World
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/9V7M86m/CMW-BEARTV.png", History
 #EXTVLCOPT:http-user-agent="BearTV"
-http://sg.tinchuanchuaanh.com:8080/CINEMAWORLD_HD/index.m3u8
+http://live-vnp.vthanhtivi.pw:18001/HISTORY_HD/index.m3u8
 #EXTINF:-1 tvg-id="davinci" tvg-logo="https://i.ibb.co/qkPjJQh/Da-Vinci-BEARTV.png" tvg-name="Da Vinci (HD)"  group-title="QUỐC TẾ",Da Vinci HD
 #EXTVLCOPT:http-user-agent="BearTV"
 https://code.vthanhtivi.pw/getlink/mytv/294/hd.m3u8
@@ -325,7 +328,7 @@ http://live.vthanhtivi.pw/natgeo
 http://live.vthanhtivi.pw/ngw
 #EXTINF:0 tvg-id="discoveryhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/PYRgmQB/Discovery-BEARTV.png" , Discovery Channel
 #EXTVLCOPT:http-user-agent="BearTV"
-https://code.vthanhtivi.pw/getlink/jptv2/53/playlist.m3u8
+http://live-vnp.vthanhtivi.pw:18001/DISCOVERY_HD/index.m3u8
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/J3khtYb/Discovery-Asia-BEARTV.png", Discovery Asia
 #EXTVLCOPT:http-user-agent="BearTV"
 http://sg.tinchuanchuaanh.com:8080/DISCOVERY_ASIA_HD/index.m3u8
