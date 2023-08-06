@@ -254,10 +254,10 @@ https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8
 
 #EXTINF:-1 tvg-id="hbohd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png", HBO
 #EXTVLCOPT:http-user-agent="BearTV"
-https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
+http://live.vthanhtivi.pw/hbo
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png", CINEMAX
 #EXTVLCOPT:http-user-agent="BearTV"
-https://code.vthanhtivi.pw/getlink/tvfree/cinemax/playlist.m3u8
+http://live.vthanhtivi.pw/cinemax
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="QUỐC TẾ" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
 #EXTVLCOPT:http-user-agent="BearTV"
 http://live-vnp.vthanhtivi.pw:18001/HOLLYWOOD_CLASSICS/index.m3u8
@@ -267,7 +267,7 @@ https://code.vthanhtivi.pw/getlink/mytv/69/hd.m3u8
 #EXTINF:-1 tvg-id="mtvhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/4WsJKSP/MTV-VN-BEARTV.png", MTV
 http://code.vthanhtivi.pw/getlink/jptv1/NiX8rRFsK_OA54lDclyKdA==/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/ggNS5F5/1hdtv-BEARTV.png", BOX Movies
-http://live-vnp.vthanhtivi.pw:18001/BOX_MOVIE_1/index.m3u8
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
 #http://sg.tinchuanchuaanh.com:8080/BOX_MOVIE_1/index.m3u8
 #EXTINF:0 tvg-id="dmaxhd"group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/kxqGzQM/dmax-BEARTV.png",DMAX
 #EXTVLCOPT:http-user-agent="BearTV"
