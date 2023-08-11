@@ -45,7 +45,6 @@ https://live-ali2.tv360.vn/manifest/Quoc_Hoi_HD/playlist_1080p.m3u8
 https://live-zlr1.tv360.vn/manifest/QPVN_HD/playlist_1080p.m3u8
 #EXTINF:0 tvg-id="vovtvhd"group-title="THỜI SỰ - CHÍNH TRỊ" tvg-logo="https://i.ibb.co/TMVw5Hw/VOV-BEARTV.png",VOV TV HD
 http://103.90.220.236/vovlive/tv1live.m3u8
-#https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8
 #EXTINF:-1 tvg-id="nhandan"group-title="THỜI SỰ - CHÍNH TRỊ" tvg-logo="https://i.ibb.co/Cwb7y50/NHANDAN-BEARTV.png",NHÂN DÂN HD
 https://liveh34.vtvcab.vn/hls/ONNHANDAN_CL/03.m3u8
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="THỜI SỰ - CHÍNH TRỊ" tvg-logo="https://i.ibb.co/mFj98VJ/VNEWS-BEARTV.png" ,VNews
@@ -180,7 +179,6 @@ https://liveh12.vtvcab.vn/hls/ONFOOTBALLTA/04.m3u8
 https://liveh12.vtvcab.vn/hls/ONSPORTNEWSTA/04.m3u8
 #EXTINF:-1 tvg-id="" group-title="🧡| VTVcab" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/ad12aa62-1d69-4141-8852-18d65ab3be64.jpg", ON Golf ENG
 https://liveh12.vtvcab.vn/hls/ONGOLFTA/04.m3u8
-
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/63.png", SCTV1 HD
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctv1/index.m3u8
