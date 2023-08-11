@@ -1,4 +1,4 @@
-https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8#EXTM3U url-tvg="http://gg.gg/epgbearlivetv" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://gg.gg/epgbearlivetv" tvg-shift=0 m3uautoload=1
 
 #EXTM3U BEARTV - Luôn cập nhật kênh ổn định
 
@@ -44,7 +44,7 @@ https://live-ali2.tv360.vn/manifest/Quoc_Hoi_HD/playlist_1080p.m3u8
 #EXTVLCOPT:http-user-agent="BearTV"
 https://live-zlr1.tv360.vn/manifest/QPVN_HD/playlist_1080p.m3u8
 #EXTINF:0 tvg-id="vovtvhd"group-title="THỜI SỰ - CHÍNH TRỊ" tvg-logo="https://i.ibb.co/TMVw5Hw/VOV-BEARTV.png",VOV TV HD
-http://103.90.220.236/vovlive/tv1live.m3u8
+https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8
 #EXTINF:-1 tvg-id="nhandan"group-title="THỜI SỰ - CHÍNH TRỊ" tvg-logo="https://i.ibb.co/Cwb7y50/NHANDAN-BEARTV.png",NHÂN DÂN HD
 https://liveh34.vtvcab.vn/hls/ONNHANDAN_CL/03.m3u8
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="THỜI SỰ - CHÍNH TRỊ" tvg-logo="https://i.ibb.co/mFj98VJ/VNEWS-BEARTV.png" ,VNews
@@ -266,7 +266,6 @@ https://code.vthanhtivi.pw/getlink/mytv/69/hd.m3u8
 http://code.vthanhtivi.pw/getlink/jptv1/NiX8rRFsK_OA54lDclyKdA==/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/ggNS5F5/1hdtv-BEARTV.png", BOX Movies
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
-#http://sg.tinchuanchuaanh.com:8080/BOX_MOVIE_1/index.m3u8
 #EXTINF:0 tvg-id="dmaxhd"group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/kxqGzQM/dmax-BEARTV.png",DMAX
 #EXTVLCOPT:http-user-agent="BearTV"
 http://sg.tinchuanchuaanh.com:8080/DMAX/index.m3u8
@@ -275,7 +274,7 @@ http://sg.tinchuanchuaanh.com:8080/DMAX/index.m3u8
 http://sg.tinchuanchuaanh.com:8080/IN_THE_BOX/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="FOXlife HD" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/FDmymrV/Box-Movie1-BEARTV.png" ,BOX HITS
 #EXTVLCOPT:http-user-agent="BearTV"
-http://live.vthanhtivi.pw/boxhits
+https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
 #EXTINF:0 tvg-id="AXN-ClipTV" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/ck0mm20/AXN-BEARTV.png" ,AXN HD
 #EXTVLCOPT:http-user-agent="BearTV"
 http://sg.tinchuanchuaanh.com:8080/AXN_HD/index.m3u8
