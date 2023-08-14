@@ -268,7 +268,7 @@ http://code.vthanhtivi.pw/getlink/jptv1/NiX8rRFsK_OA54lDclyKdA==/playlist.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
 #EXTINF:0 tvg-id="dmaxhd"group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/kxqGzQM/dmax-BEARTV.png",DMAX
 #EXTVLCOPT:http-user-agent="BearTV"
-http://sg.tinchuanchuaanh.com:8080/DMAX/index.m3u8
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 #EXTINF:0 tvg-id="dmaxhd"group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/kxqGzQM/dmax-BEARTV.png",In The Box
 #EXTVLCOPT:http-user-agent="BearTV"
 http://sg.tinchuanchuaanh.com:8080/IN_THE_BOX/index.m3u8
@@ -277,10 +277,10 @@ http://sg.tinchuanchuaanh.com:8080/IN_THE_BOX/index.m3u8
 https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
 #EXTINF:0 tvg-id="AXN-ClipTV" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/ck0mm20/AXN-BEARTV.png" ,AXN HD
 #EXTVLCOPT:http-user-agent="BearTV"
-http://sg.tinchuanchuaanh.com:8080/AXN_HD/index.m3u8
+http://live-vnp.vthanhtivi.pw:18001/AXN_HD/index.m3u8
 #EXTINF:0 tvg-id="warnertvhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/S7BtNs4/WB-BEARTV.png",Warner TV
 #EXTVLCOPT:http-user-agent="BearTV"
-http://sg.tinchuanchuaanh.com:8080/WARNER_TV_HD/index.m3u8
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 #EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/Q8NX9GC/kix-BEARTV.png", KIX HD
 #EXTVLCOPT:http-user-agent="BearTV"
 https://code.vthanhtivi.pw/getlink/fptplay/kix/chunklist_b5000000.m3u8
@@ -328,16 +328,16 @@ http://live.vthanhtivi.pw/ngw
 http://live-vnp.vthanhtivi.pw:18001/DISCOVERY_HD/index.m3u8
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/J3khtYb/Discovery-Asia-BEARTV.png", Discovery Asia
 #EXTVLCOPT:http-user-agent="BearTV"
-http://sg.tinchuanchuaanh.com:8080/DISCOVERY_ASIA_HD/index.m3u8
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 #EXTINF:0 tvg-id="outdoorhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/hDhK578/Outdoor-Channel-BEARTV.png" , Outdoor Channel
 #EXTVLCOPT:http-user-agent="BearTV"
 https://code.vthanhtivi.pw/getlink/mytv/191/hd.m3u8
 #EXTINF:0 tvg-id="fashionhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/C74WPtb/Fashion-TV-BEARTV.png" , Fashion TV 4K
 #EXTVLCOPT:http-user-agent="BearTV"
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:0 tvg-id="fashionhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/C74WPtb/Fashion-TV-BEARTV.png" , Fashion Midnite
+#EXTINF:0 tvg-id="fashionhd" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/HITS_TV_ASIA.png" , HITS
 #EXTVLCOPT:http-user-agent="BearTV"
-https://dl.dropboxusercontent.com/s/jaoc6ag8c8ku3au/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%E3%85%A4?midnite%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
+https://code.vthanhtivi.pw/getlink/mytv/515/hd.m3u8
 #EXTINF:0 tvg-id="fashionhd" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/C74WPtb/Fashion-TV-BEARTV.png" , Kaloopy
 #EXTVLCOPT:http-user-agent="BearTV"
 https://dl.dropboxusercontent.com/s/koiq1049gt89pg5/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%E3%85%A4?kaloopy%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20%7CReferer=https://sctvonline.vn/%20
